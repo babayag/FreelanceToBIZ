@@ -11,7 +11,7 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://babayag.github.io/FreelanceToBusiness/",
+  "homepage": "https://babayag.github.io/FreelanceToBIZ/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
