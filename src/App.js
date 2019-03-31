@@ -13,8 +13,8 @@ class App extends Component {
         <BarNav/>
         <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
+          <Route exact path="FreelanceToBusiness/" component={Home} />
+          <Route exact path="FreelanceToBusiness/about" component={About} />
         </Switch>
       </BrowserRouter>
       </div>
