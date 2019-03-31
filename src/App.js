@@ -11,10 +11,10 @@ class App extends Component {
     return (
       <div>
         <BarNav/>
-        <BrowserRouter basename={process.env.PUBLIC_URL} >
+        <BrowserRouter basename="FreelanceToBusiness/">
         <Switch>
-          <Route  exact path="/" component={Home} />
-          <Route  path="/about" component={About} />
+          <Route   exact path="/" component={Home} />
+          <Route   path="/about" component={About} />
         </Switch>
       </BrowserRouter>
       </div>

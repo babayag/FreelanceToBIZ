@@ -6,7 +6,6 @@ export class BarNav extends Component
     render(){
         return(
         <Navbar bg="dark" variant="dark" expand="lg">
-            {/* <BrowserRouter basename={process.env.PUBLIC_URL} ></BrowserRouter> */}
             <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
