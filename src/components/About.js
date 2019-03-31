@@ -10,7 +10,7 @@ export class About extends Component
                     <Col>
                         <Button variant="flat" size="xxl">get the eagle</Button>
                     </Col>
-                    <Col>2 of 2</Col>
+                    <Col>2  2</Col>
                 </Row>
                 <Row>
                     <Col>1 of 3</Col>

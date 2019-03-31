@@ -11,9 +11,9 @@ class App extends Component {
     return (
       <div>
         <BarNav/>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL} >
         <Switch>
-          <Route  path="/" component={Home} />
+          <Route  exact path="/" component={Home} />
           <Route  path="/about" component={About} />
         </Switch>
       </BrowserRouter>
