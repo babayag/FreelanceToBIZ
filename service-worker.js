@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FreelanceToBIZ/precache-manifest.0f17e1643b7bd692182a3132ac0f14be.js"
+  "/FreelanceToBIZ/precache-manifest.a8d4c34cbef9500d620f0b0e3a1ff74b.js"
 );
 
 workbox.clientsClaim();
