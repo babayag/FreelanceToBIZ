@@ -7,3 +7,25 @@
   padding: 1rem 1.5rem;
   font-size: 1.5rem;
 }
+.jumbotron{
+  background-image: url('./bulb-electricity-glass.jpg');
+  background-position: center center;
+  background-size: cover;
+  
+}
+
+.titleJumbo
+{
+  color: #683A92 !important; 
+}
+
+.subtitleJumbo
+{
+  color : #9C1A90;
+  padding-left: 5%;
+}
+
+.chock-message
+{
+  color: #1F59BA;
+}
